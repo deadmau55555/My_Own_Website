@@ -1,4 +1,1 @@
-# My_Own_Website
-Website name: WeConnect /  5 Webpages / HTML, CSS with supporting images and videos
-
-README test 
+file:///C:/Users/domre/OneDrive/Desktop/Vanier/Passed%20Courses/FrontEndWebProg/MyWebsiteProject/Socializing.html
