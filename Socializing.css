@@ -1,0 +1,7 @@
+h3 {font-family: arial; letter-spacing:0.1em; word-spacing:0.4em; 						 
+border: 5px solid red; border-bottom-width: thin; line-height: 150%;}					 	
+p {font-style: oblique;}																 
+.header {text-align: center; padding-top: 20px;}
+.wrap {background-color: chartreuse; padding: 4px; margin-bottom: 0;}					 
+
+body {margin: 0; padding: 0;  

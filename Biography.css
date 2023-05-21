@@ -1,0 +1,8 @@
+h3 {font-family: fantasy; letter-spacing:0.1em; word-spacing:0.4em; font-size:22px;		
+ border: double; font-weight: lighter; line-height: 150%;}										
+p {font-style: italic;}
+.header {text-align: center; padding-top: 20px;}
+.wrap {background-color: grey; padding: 4px; margin-bottom: 0;}							
+.footer {background-color: #ff7b00; padding: 4px; margin-bottom: 0;}
+
+body {margin: 0; padding: 0;}

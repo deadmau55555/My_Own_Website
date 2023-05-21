@@ -1,0 +1,8 @@
+h3 {font-family: papyrus; letter-spacing:0.1em; word-spacing:0.4em; 						
+outline: 5px dotted green; outline-style: ridge; padding: 100px;}							
+p {font-style: italic;}
+.header {text-align: center; padding-top: 20px;}
+.wrap {background-color: gold; padding: 4px; margin-bottom: 0;}								
+.footer {background-color: #ff7b00; padding: 4px; margin-bottom: 0;}
+
+body {margin: 0; padding: 0;}
